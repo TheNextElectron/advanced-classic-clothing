@@ -1,0 +1,11 @@
+{
+  "name": "advanced_classic_clothing",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ReplicatedStorage"
+    }
+  }
+}
